@@ -1,5 +1,19 @@
 ・━━━━━━━━━━━━━━━・❔・━━━━━━━━━━━━━━━・
-- 👋 *Hi, I’m @Snajlex*
-- 👀 *I’m interested in Web Development*
-- 🌱 *I’m currently learning Python*
-- 📫 *You can reach me on discord* Snajlex#4275
+## *Hi, I'm Snajlex👋.*
+
+### 💻 &nbsp;About Me 
+- 🎓 &nbsp; *Studying Software Engineering at Brigham Young University Idaho.*
+- 👀 &nbsp; *I’m interested in Web Development*
+
+### 🛠 &nbsp;
+
+- 🔧 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  
+- 🌱 &nbsp; 
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+
+## 📫 &nbsp; *You can reach me on discord* Snajlex#4275

@@ -2,7 +2,7 @@
 ## *Hi, I'm Snajlex👋.*
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; *Studying Software Engineering at Brigham Young University Idaho.*
+- 🎓 &nbsp; *Learning on my own.*
 - 👀 &nbsp; *I’m interested in Web Development*
 
 ### 🛠 &nbsp;

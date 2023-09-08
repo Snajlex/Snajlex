@@ -3,7 +3,7 @@
 
 ### 💻 &nbsp;About Me 
 - 🎓 &nbsp; *Learning on my own.*
-- 👀 &nbsp; *I’m interested in Web Development*
+- 👀 &nbsp; *I’m interested in Web Development and CyberSecurity*
 
 ### 🛠 &nbsp;
 

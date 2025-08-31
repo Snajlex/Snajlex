@@ -16,4 +16,4 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 
-## 📫 &nbsp; *You can reach me on discord* Snajlex
+## 📫 &nbsp; *You can reach me on discord* @snajlex
